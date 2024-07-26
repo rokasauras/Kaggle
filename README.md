@@ -10,7 +10,7 @@
 
   <h2>Projects</h2>
 
-  <h3>Titanic: Machine Learning from Disaster</h3>
+  <h3>The Titanic: Machine Learning from Disaster</h3>
     <h4>Description</h4>
     <p>This project aims to predict the survival of passengers aboard the Titanic using machine learning techniques. I used a Random Forest Classifier to make predictions based on passenger data.</p>
 
